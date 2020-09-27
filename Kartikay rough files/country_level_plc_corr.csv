@@ -1,0 +1,1379 @@
+,set1_country,set2_country,correlation,no. of points
+0,United Kingdom,United Arab Emirates,0.878901663,180
+1,United Kingdom,Turkey,0.965068824,182
+2,United Kingdom,Switzerland,0.982445353,180
+3,United Kingdom,Sweden,0.953170042,183
+4,United Kingdom,Spain,0.957252712,150
+5,United Kingdom,Slovenia,0.988199483,181
+6,United Kingdom,Portugal,0.975473721,171
+7,United Kingdom,Netherlands,0.975982205,183
+8,United Kingdom,Mexico,0.889057981,93
+9,United Kingdom,Lithuania,0.932123811,182
+10,United Kingdom,Kuwait,0.879197421,177
+11,United Kingdom,Ireland,0.991175994,183
+12,United Kingdom,Hungary,0.969041097,176
+13,United Kingdom,Germany,0.987882764,183
+14,United Kingdom,France,0.984356365,183
+15,United Kingdom,Finland,0.863863924,180
+16,United Kingdom,Denmark,0.941941953,168
+17,United Kingdom,Colombia,0.947153037,132
+18,United Kingdom,Chile,0.888934175,183
+19,United Kingdom,Bulgaria,0.919846503,183
+20,United Kingdom,Belgium,0.985150121,183
+21,United Kingdom,Austria,0.974572532,183
+22,United Kingdom,Saudi Arabia,0.976262188,173
+23,United Kingdom,Romania,0.979217705,183
+24,United Kingdom,Paraguay,0.808708793,180
+25,United Kingdom,Norway,0.930804977,178
+26,United Kingdom,Israel,0.957382399,180
+27,United Kingdom,Greece,0.8671564,60
+28,United Kingdom,Estonia,0.950120519,156
+29,United Kingdom,Czech Republic,0.985769162,169
+30,United Kingdom,Uruguay,0.955503133,183
+31,United Kingdom,Ukraine,0.881150188,183
+32,United Kingdom,Tunisia,0.763982793,182
+33,United Kingdom,Taiwan,0.981225533,156
+34,United Kingdom,South Korea,0.978248901,181
+35,United Kingdom,South Africa,0.979196947,183
+36,United Kingdom,Slovakia,0.961928841,156
+37,United Kingdom,Singapore,0.858976098,136
+38,United Kingdom,Puerto Rico,0.912006166,178
+39,United Kingdom,New Zealand,0.967643189,183
+40,United Kingdom,Malaysia,0.919751284,160
+41,United Kingdom,Latvia,0.912569712,183
+42,United Kingdom,Japan,0.927808529,156
+43,United Kingdom,Italy,0.961925707,126
+44,United Kingdom,Croatia,0.364380671,178
+45,United Kingdom,Canada,0.981554151,183
+46,United Kingdom,Brazil,0.983214588,183
+47,United Kingdom,Australia,0.988968771,183
+48,United Kingdom,Argentina,0.977009806,171
+49,United Kingdom,Lebanon,0.713953035,172
+50,United Kingdom,Jordan,0.740468119,179
+51,United Kingdom,China,0.658144228,181
+52,United Arab Emirates,Turkey,0.932311339,181
+53,United Arab Emirates,Switzerland,0.878581834,183
+54,United Arab Emirates,Sweden,0.872394449,180
+55,United Arab Emirates,Spain,0.894613404,153
+56,United Arab Emirates,Slovenia,0.89676682,182
+57,United Arab Emirates,Portugal,0.897140755,174
+58,United Arab Emirates,Netherlands,0.814408829,180
+59,United Arab Emirates,Mexico,0.744628717,96
+60,United Arab Emirates,Lithuania,0.938697647,181
+61,United Arab Emirates,Kuwait,0.979098936,180
+62,United Arab Emirates,Ireland,0.902057511,180
+63,United Arab Emirates,Hungary,0.83253788,179
+64,United Arab Emirates,Germany,0.922609271,180
+65,United Arab Emirates,France,0.893046542,180
+66,United Arab Emirates,Finland,0.742551949,183
+67,United Arab Emirates,Denmark,0.835762993,171
+68,United Arab Emirates,Colombia,0.886077487,135
+69,United Arab Emirates,Chile,0.872327618,180
+70,United Arab Emirates,Bulgaria,0.957983967,180
+71,United Arab Emirates,Belgium,0.859569361,180
+72,United Arab Emirates,Austria,0.906441452,180
+73,United Arab Emirates,Saudi Arabia,0.947077944,176
+74,United Arab Emirates,Romania,0.896429061,180
+75,United Arab Emirates,Paraguay,0.854881974,183
+76,United Arab Emirates,Norway,0.834483382,181
+77,United Arab Emirates,Israel,0.847471259,183
+78,United Arab Emirates,Greece,0.965675694,63
+79,United Arab Emirates,Estonia,0.934356617,159
+80,United Arab Emirates,Czech Republic,0.882306494,172
+81,United Arab Emirates,Uruguay,0.949552202,180
+82,United Arab Emirates,Ukraine,0.935761719,180
+83,United Arab Emirates,Tunisia,0.784094058,181
+84,United Arab Emirates,Taiwan,0.940398929,159
+85,United Arab Emirates,South Korea,0.936276476,182
+86,United Arab Emirates,South Africa,0.875568511,180
+87,United Arab Emirates,Slovakia,0.933998577,159
+88,United Arab Emirates,Singapore,0.865520133,139
+89,United Arab Emirates,Puerto Rico,0.747409572,181
+90,United Arab Emirates,New Zealand,0.940980492,180
+91,United Arab Emirates,Malaysia,0.805554197,163
+92,United Arab Emirates,Latvia,0.945244759,180
+93,United Arab Emirates,Japan,0.826194441,159
+94,United Arab Emirates,Italy,0.953360856,129
+95,United Arab Emirates,Croatia,0.227804186,181
+96,United Arab Emirates,Canada,0.852129763,180
+97,United Arab Emirates,Brazil,0.926503135,180
+98,United Arab Emirates,Australia,0.8857238,180
+99,United Arab Emirates,Argentina,0.860636386,174
+100,United Arab Emirates,Lebanon,0.727854995,175
+101,United Arab Emirates,Jordan,0.770794652,182
+102,United Arab Emirates,China,0.601875714,182
+103,Turkey,Switzerland,0.955929125,181
+104,Turkey,Sweden,0.972594095,182
+105,Turkey,Spain,0.924193618,151
+106,Turkey,Slovenia,0.960327154,182
+107,Turkey,Portugal,0.964942562,172
+108,Turkey,Netherlands,0.930587299,182
+109,Turkey,Mexico,0.942515326,94
+110,Turkey,Lithuania,0.982225434,183
+111,Turkey,Kuwait,0.928743479,178
+112,Turkey,Ireland,0.980794571,182
+113,Turkey,Hungary,0.935402588,177
+114,Turkey,Germany,0.98551965,182
+115,Turkey,France,0.96464099,182
+116,Turkey,Finland,0.842069052,181
+117,Turkey,Denmark,0.932497874,169
+118,Turkey,Colombia,0.971223146,133
+119,Turkey,Chile,0.957981689,182
+120,Turkey,Bulgaria,0.9754048,182
+121,Turkey,Belgium,0.956020204,182
+122,Turkey,Austria,0.97706572,182
+123,Turkey,Saudi Arabia,0.980600586,174
+124,Turkey,Romania,0.951490951,182
+125,Turkey,Paraguay,0.908559888,181
+126,Turkey,Norway,0.943670765,179
+127,Turkey,Israel,0.943622625,181
+128,Turkey,Greece,0.980102576,61
+129,Turkey,Estonia,0.965430538,157
+130,Turkey,Czech Republic,0.939773848,170
+131,Turkey,Uruguay,0.982410864,182
+132,Turkey,Ukraine,0.960943065,182
+133,Turkey,Tunisia,0.85900053,183
+134,Turkey,Taiwan,0.974149027,157
+135,Turkey,South Korea,0.989635247,182
+136,Turkey,South Africa,0.95836118,182
+137,Turkey,Slovakia,0.995194655,157
+138,Turkey,Singapore,0.888789671,137
+139,Turkey,Puerto Rico,0.836067528,179
+140,Turkey,New Zealand,0.985152601,182
+141,Turkey,Malaysia,0.865747268,161
+142,Turkey,Latvia,0.97906735,182
+143,Turkey,Japan,0.862124165,157
+144,Turkey,Italy,0.960918254,127
+145,Turkey,Croatia,0.378072041,179
+146,Turkey,Canada,0.935252594,182
+147,Turkey,Brazil,0.973079491,182
+148,Turkey,Australia,0.962164651,182
+149,Turkey,Argentina,0.926410668,172
+150,Turkey,Lebanon,0.820237842,173
+151,Turkey,Jordan,0.848711853,180
+152,Turkey,China,0.643781806,182
+153,Switzerland,Sweden,0.948010219,180
+154,Switzerland,Spain,0.945661408,153
+155,Switzerland,Slovenia,0.978652702,182
+156,Switzerland,Portugal,0.956316592,174
+157,Switzerland,Netherlands,0.970241567,180
+158,Switzerland,Mexico,0.845975648,96
+159,Switzerland,Lithuania,0.929711098,181
+160,Switzerland,Kuwait,0.878281975,180
+161,Switzerland,Ireland,0.983934949,180
+162,Switzerland,Hungary,0.957208136,179
+163,Switzerland,Germany,0.980467942,180
+164,Switzerland,France,0.974264086,180
+165,Switzerland,Finland,0.881325614,183
+166,Switzerland,Denmark,0.934324091,171
+167,Switzerland,Colombia,0.924692396,135
+168,Switzerland,Chile,0.875761654,180
+169,Switzerland,Bulgaria,0.912135685,180
+170,Switzerland,Belgium,0.98248816,180
+171,Switzerland,Austria,0.96862208,180
+172,Switzerland,Saudi Arabia,0.963586872,176
+173,Switzerland,Romania,0.968427791,180
+174,Switzerland,Paraguay,0.7993348,183
+175,Switzerland,Norway,0.924334799,181
+176,Switzerland,Israel,0.947557956,183
+177,Switzerland,Greece,0.789224633,63
+178,Switzerland,Estonia,0.93614322,159
+179,Switzerland,Czech Republic,0.971831297,172
+180,Switzerland,Uruguay,0.943144932,180
+181,Switzerland,Ukraine,0.875157327,180
+182,Switzerland,Tunisia,0.751701139,181
+183,Switzerland,Taiwan,0.969186515,159
+184,Switzerland,South Korea,0.967654248,182
+185,Switzerland,South Africa,0.97050898,180
+186,Switzerland,Slovakia,0.954165831,159
+187,Switzerland,Singapore,0.859656507,139
+188,Switzerland,Puerto Rico,0.910476804,181
+189,Switzerland,New Zealand,0.95371166,180
+190,Switzerland,Malaysia,0.899468628,163
+191,Switzerland,Latvia,0.905671901,180
+192,Switzerland,Japan,0.906398599,159
+193,Switzerland,Italy,0.953598811,129
+194,Switzerland,Croatia,0.387442895,181
+195,Switzerland,Canada,0.977265545,180
+196,Switzerland,Brazil,0.970801557,180
+197,Switzerland,Australia,0.980966968,180
+198,Switzerland,Argentina,0.966362187,174
+199,Switzerland,Lebanon,0.704427233,175
+200,Switzerland,Jordan,0.732711676,182
+201,Switzerland,China,0.62432025,182
+202,Sweden,Spain,0.866242842,150
+203,Sweden,Slovenia,0.935306441,181
+204,Sweden,Portugal,0.951491794,171
+205,Sweden,Netherlands,0.941370981,183
+206,Sweden,Mexico,0.9599536,93
+207,Sweden,Lithuania,0.962164349,182
+208,Sweden,Kuwait,0.864526189,177
+209,Sweden,Ireland,0.967172149,183
+210,Sweden,Hungary,0.934757051,176
+211,Sweden,Germany,0.967252122,183
+212,Sweden,France,0.956429254,183
+213,Sweden,Finland,0.878901127,180
+214,Sweden,Denmark,0.945647903,168
+215,Sweden,Colombia,0.963009602,132
+216,Sweden,Chile,0.953485698,183
+217,Sweden,Bulgaria,0.926054454,183
+218,Sweden,Belgium,0.962542397,183
+219,Sweden,Austria,0.974839837,183
+220,Sweden,Saudi Arabia,0.939884736,173
+221,Sweden,Romania,0.92283321,183
+222,Sweden,Paraguay,0.861807014,180
+223,Sweden,Norway,0.963949085,178
+224,Sweden,Israel,0.932131299,180
+225,Sweden,Greece,0.946008666,60
+226,Sweden,Estonia,0.916844026,156
+227,Sweden,Czech Republic,0.911436091,169
+228,Sweden,Uruguay,0.947841501,183
+229,Sweden,Ukraine,0.929929667,183
+230,Sweden,Tunisia,0.831913292,182
+231,Sweden,Taiwan,0.930558092,156
+232,Sweden,South Korea,0.965678587,181
+233,Sweden,South Africa,0.944104727,183
+234,Sweden,Slovakia,0.961443988,156
+235,Sweden,Singapore,0.861754247,136
+236,Sweden,Puerto Rico,0.847450841,178
+237,Sweden,New Zealand,0.959674257,183
+238,Sweden,Malaysia,0.84617606,160
+239,Sweden,Latvia,0.942828247,183
+240,Sweden,Japan,0.822815873,156
+241,Sweden,Italy,0.887319289,126
+242,Sweden,Croatia,0.46614573,178
+243,Sweden,Canada,0.93252926,183
+244,Sweden,Brazil,0.940697172,183
+245,Sweden,Australia,0.9564754,183
+246,Sweden,Argentina,0.909843803,171
+247,Sweden,Lebanon,0.814884789,172
+248,Sweden,Jordan,0.82209177,179
+249,Sweden,China,0.67815131,181
+250,Spain,Slovenia,0.970875211,152
+251,Spain,Portugal,0.955391586,162
+252,Spain,Netherlands,0.948270817,150
+253,Spain,Mexico,0.848755689,126
+254,Spain,Lithuania,0.909391702,151
+255,Spain,Kuwait,0.890754642,156
+256,Spain,Ireland,0.953393177,150
+257,Spain,Hungary,0.931234074,157
+258,Spain,Germany,0.943280176,150
+259,Spain,France,0.955477837,150
+260,Spain,Finland,0.736811193,153
+261,Spain,Denmark,0.872125049,165
+262,Spain,Colombia,0.91146654,165
+263,Spain,Chile,0.830033144,150
+264,Spain,Bulgaria,0.920462524,150
+265,Spain,Belgium,0.942731594,150
+266,Spain,Austria,0.93018421,150
+267,Spain,Saudi Arabia,0.971573611,160
+268,Spain,Romania,0.975378048,150
+269,Spain,Paraguay,0.787257536,153
+270,Spain,Norway,0.835456501,155
+271,Spain,Israel,0.889536591,153
+272,Spain,Greece,0.736525428,93
+273,Spain,Estonia,0.951296228,177
+274,Spain,Czech Republic,0.976377759,164
+275,Spain,Uruguay,0.951229727,150
+276,Spain,Ukraine,0.878669532,150
+277,Spain,Tunisia,0.731710789,151
+278,Spain,Taiwan,0.97679197,177
+279,Spain,South Korea,0.957496442,152
+280,Spain,South Africa,0.92639062,150
+281,Spain,Slovakia,0.932729116,177
+282,Spain,Singapore,0.882576481,169
+283,Spain,Puerto Rico,0.864165414,155
+284,Spain,New Zealand,0.955866075,150
+285,Spain,Malaysia,0.914443392,173
+286,Spain,Latvia,0.89467027,150
+287,Spain,Japan,0.948714436,177
+288,Spain,Italy,0.950737136,159
+289,Spain,Croatia,0.247060987,155
+290,Spain,Canada,0.964161614,150
+291,Spain,Brazil,0.977557895,150
+292,Spain,Australia,0.958358952,150
+293,Spain,Argentina,0.969762614,162
+294,Spain,Lebanon,0.695231068,161
+295,Spain,Jordan,0.711080573,154
+296,Spain,China,0.590700666,152
+297,Slovenia,Portugal,0.96093469,173
+298,Slovenia,Netherlands,0.970268733,181
+299,Slovenia,Mexico,0.768908701,95
+300,Slovenia,Lithuania,0.938499525,182
+301,Slovenia,Kuwait,0.889936469,179
+302,Slovenia,Ireland,0.986378792,181
+303,Slovenia,Hungary,0.957651958,178
+304,Slovenia,Germany,0.985438391,181
+305,Slovenia,France,0.985008402,181
+306,Slovenia,Finland,0.842521006,182
+307,Slovenia,Denmark,0.927642697,170
+308,Slovenia,Colombia,0.905827987,134
+309,Slovenia,Chile,0.868532165,181
+310,Slovenia,Bulgaria,0.930146909,181
+311,Slovenia,Belgium,0.97839481,181
+312,Slovenia,Austria,0.971232119,181
+313,Slovenia,Saudi Arabia,0.97553981,175
+314,Slovenia,Romania,0.991491687,181
+315,Slovenia,Paraguay,0.782536115,182
+316,Slovenia,Norway,0.899109226,180
+317,Slovenia,Israel,0.939836587,182
+318,Slovenia,Greece,0.61742797,62
+319,Slovenia,Estonia,0.948774844,158
+320,Slovenia,Czech Republic,0.987448612,171
+321,Slovenia,Uruguay,0.961445429,181
+322,Slovenia,Ukraine,0.880061093,181
+323,Slovenia,Tunisia,0.740771457,182
+324,Slovenia,Taiwan,0.97739047,158
+325,Slovenia,South Korea,0.972599951,183
+326,Slovenia,South Africa,0.971699673,181
+327,Slovenia,Slovakia,0.937862004,158
+328,Slovenia,Singapore,0.861893832,138
+329,Slovenia,Puerto Rico,0.918793472,180
+330,Slovenia,New Zealand,0.972014982,181
+331,Slovenia,Malaysia,0.911859375,162
+332,Slovenia,Latvia,0.912020524,181
+333,Slovenia,Japan,0.942688625,158
+334,Slovenia,Italy,0.972022589,128
+335,Slovenia,Croatia,0.341178463,180
+336,Slovenia,Canada,0.980336676,181
+337,Slovenia,Brazil,0.992249303,181
+338,Slovenia,Australia,0.98882829,181
+339,Slovenia,Argentina,0.97785139,173
+340,Slovenia,Lebanon,0.65044545,174
+341,Slovenia,Jordan,0.707049932,181
+342,Slovenia,China,0.608324362,183
+343,Portugal,Netherlands,0.966530279,171
+344,Portugal,Mexico,0.985785682,105
+345,Portugal,Lithuania,0.954958232,172
+346,Portugal,Kuwait,0.882823769,177
+347,Portugal,Ireland,0.975705732,171
+348,Portugal,Hungary,0.965378061,178
+349,Portugal,Germany,0.971714634,171
+350,Portugal,France,0.973522619,171
+351,Portugal,Finland,0.810359012,174
+352,Portugal,Denmark,0.94504179,180
+353,Portugal,Colombia,0.975355579,144
+354,Portugal,Chile,0.918357847,171
+355,Portugal,Bulgaria,0.92783862,171
+356,Portugal,Belgium,0.969462632,171
+357,Portugal,Austria,0.971525088,171
+358,Portugal,Saudi Arabia,0.978178054,181
+359,Portugal,Romania,0.970586083,171
+360,Portugal,Paraguay,0.815875858,174
+361,Portugal,Norway,0.942996811,176
+362,Portugal,Israel,0.934620355,174
+363,Portugal,Greece,0.976086469,72
+364,Portugal,Estonia,0.947696448,168
+365,Portugal,Czech Republic,0.960867569,181
+366,Portugal,Uruguay,0.970855676,171
+367,Portugal,Ukraine,0.919514359,171
+368,Portugal,Tunisia,0.758188123,172
+369,Portugal,Taiwan,0.980544983,168
+370,Portugal,South Korea,0.983018308,173
+371,Portugal,South Africa,0.953503324,171
+372,Portugal,Slovakia,0.961030095,168
+373,Portugal,Singapore,0.918286569,148
+374,Portugal,Puerto Rico,0.87513895,176
+375,Portugal,New Zealand,0.975062639,171
+376,Portugal,Malaysia,0.922055848,172
+377,Portugal,Latvia,0.925880482,171
+378,Portugal,Japan,0.92750082,168
+379,Portugal,Italy,0.947674618,138
+380,Portugal,Croatia,0.487987904,176
+381,Portugal,Canada,0.950059628,171
+382,Portugal,Brazil,0.978671807,171
+383,Portugal,Australia,0.97275802,171
+384,Portugal,Argentina,0.966009635,183
+385,Portugal,Lebanon,0.776899111,182
+386,Portugal,Jordan,0.7599549,175
+387,Portugal,China,0.703163998,173
+388,Netherlands,Mexico,0.972376907,93
+389,Netherlands,Lithuania,0.905422083,182
+390,Netherlands,Kuwait,0.801591381,177
+391,Netherlands,Ireland,0.971016951,183
+392,Netherlands,Hungary,0.9767758,176
+393,Netherlands,Germany,0.962017104,183
+394,Netherlands,France,0.965598557,183
+395,Netherlands,Finland,0.861471945,180
+396,Netherlands,Denmark,0.963336968,168
+397,Netherlands,Colombia,0.982268342,132
+398,Netherlands,Chile,0.862642174,183
+399,Netherlands,Bulgaria,0.859591524,183
+400,Netherlands,Belgium,0.987598658,183
+401,Netherlands,Austria,0.959784577,183
+402,Netherlands,Saudi Arabia,0.937939944,173
+403,Netherlands,Romania,0.95851572,183
+404,Netherlands,Paraguay,0.730861051,180
+405,Netherlands,Norway,0.942492151,178
+406,Netherlands,Israel,0.937845821,180
+407,Netherlands,Greece,0.967690571,60
+408,Netherlands,Estonia,0.912520115,156
+409,Netherlands,Czech Republic,0.970105347,169
+410,Netherlands,Uruguay,0.910682961,183
+411,Netherlands,Ukraine,0.829257635,183
+412,Netherlands,Tunisia,0.694557563,182
+413,Netherlands,Taiwan,0.953525939,156
+414,Netherlands,South Korea,0.951217869,181
+415,Netherlands,South Africa,0.956276738,183
+416,Netherlands,Slovakia,0.923871359,156
+417,Netherlands,Singapore,0.89075891,136
+418,Netherlands,Puerto Rico,0.935748905,178
+419,Netherlands,New Zealand,0.92755786,183
+420,Netherlands,Malaysia,0.922275122,160
+421,Netherlands,Latvia,0.856763745,183
+422,Netherlands,Japan,0.931898156,156
+423,Netherlands,Italy,0.929619259,126
+424,Netherlands,Croatia,0.486239489,178
+425,Netherlands,Canada,0.975752861,183
+426,Netherlands,Brazil,0.950470711,183
+427,Netherlands,Australia,0.974886263,183
+428,Netherlands,Argentina,0.978373734,171
+429,Netherlands,Lebanon,0.652424375,172
+430,Netherlands,Jordan,0.668210934,179
+431,Netherlands,China,0.681148104,181
+432,Mexico,Lithuania,0.943076753,94
+433,Mexico,Kuwait,0.699962267,99
+434,Mexico,Ireland,0.9288984,93
+435,Mexico,Hungary,0.913761401,100
+436,Mexico,Germany,0.914031276,93
+437,Mexico,France,0.86335897,93
+438,Mexico,Finland,0.577172752,96
+439,Mexico,Denmark,0.737531699,108
+440,Mexico,Colombia,0.937375026,144
+441,Mexico,Chile,0.993681471,93
+442,Mexico,Bulgaria,0.847312149,93
+443,Mexico,Belgium,0.934371361,93
+444,Mexico,Austria,0.926052402,93
+445,Mexico,Saudi Arabia,0.901818409,103
+446,Mexico,Romania,0.791786634,93
+447,Mexico,Paraguay,0.856650161,96
+448,Mexico,Norway,0.939550911,98
+449,Mexico,Israel,0.775720081,96
+450,Mexico,Greece,0.922523964,150
+451,Mexico,Estonia,0.847704105,120
+452,Mexico,Czech Republic,0.822485985,107
+453,Mexico,Uruguay,0.926915305,93
+454,Mexico,Ukraine,0.949925666,93
+455,Mexico,Tunisia,0.809960618,94
+456,Mexico,Taiwan,0.939482514,120
+457,Mexico,South Korea,0.954540275,95
+458,Mexico,South Africa,0.842866778,93
+459,Mexico,Slovakia,0.951074623,120
+460,Mexico,Singapore,0.644453117,140
+461,Mexico,Puerto Rico,0.609099113,98
+462,Mexico,New Zealand,0.912681563,93
+463,Mexico,Malaysia,0.765926221,116
+464,Mexico,Latvia,0.918981894,93
+465,Mexico,Japan,0.786253665,120
+466,Mexico,Italy,0.683081189,150
+467,Mexico,Croatia,0.533082161,98
+468,Mexico,Canada,0.824580209,93
+469,Mexico,Brazil,0.888408439,93
+470,Mexico,Australia,0.876375435,93
+471,Mexico,Argentina,0.89992056,105
+472,Mexico,Lebanon,0.925949132,104
+473,Mexico,Jordan,0.851696887,97
+474,Mexico,China,0.328199707,95
+475,Lithuania,Kuwait,0.928303716,178
+476,Lithuania,Ireland,0.956553941,182
+477,Lithuania,Hungary,0.914570675,177
+478,Lithuania,Germany,0.965659809,182
+479,Lithuania,France,0.943748314,182
+480,Lithuania,Finland,0.830109506,181
+481,Lithuania,Denmark,0.927779527,169
+482,Lithuania,Colombia,0.972282845,133
+483,Lithuania,Chile,0.960880053,182
+484,Lithuania,Bulgaria,0.970484044,182
+485,Lithuania,Belgium,0.932690278,182
+486,Lithuania,Austria,0.965431005,182
+487,Lithuania,Saudi Arabia,0.965187852,174
+488,Lithuania,Romania,0.929633404,182
+489,Lithuania,Paraguay,0.893354803,181
+490,Lithuania,Norway,0.934778486,179
+491,Lithuania,Israel,0.921094353,181
+492,Lithuania,Greece,0.933233379,61
+493,Lithuania,Estonia,0.946839628,157
+494,Lithuania,Czech Republic,0.913798533,170
+495,Lithuania,Uruguay,0.973264911,182
+496,Lithuania,Ukraine,0.965881781,182
+497,Lithuania,Tunisia,0.833898469,183
+498,Lithuania,Taiwan,0.960847655,157
+499,Lithuania,South Korea,0.978292112,182
+500,Lithuania,South Africa,0.931122874,182
+501,Lithuania,Slovakia,0.979214025,157
+502,Lithuania,Singapore,0.894297379,137
+503,Lithuania,Puerto Rico,0.815951253,179
+504,Lithuania,New Zealand,0.972839061,182
+505,Lithuania,Malaysia,0.840973519,161
+506,Lithuania,Latvia,0.980272596,182
+507,Lithuania,Japan,0.838275531,157
+508,Lithuania,Italy,0.946544271,127
+509,Lithuania,Croatia,0.380703437,179
+510,Lithuania,Canada,0.902512779,182
+511,Lithuania,Brazil,0.952604811,182
+512,Lithuania,Australia,0.939779397,182
+513,Lithuania,Argentina,0.903255796,172
+514,Lithuania,Lebanon,0.803141993,173
+515,Lithuania,Jordan,0.827841601,180
+516,Lithuania,China,0.668264199,182
+517,Kuwait,Ireland,0.901763622,177
+518,Kuwait,Hungary,0.826123486,182
+519,Kuwait,Germany,0.922820514,177
+520,Kuwait,France,0.888661717,177
+521,Kuwait,Finland,0.741387752,180
+522,Kuwait,Denmark,0.818882362,174
+523,Kuwait,Colombia,0.873828761,138
+524,Kuwait,Chile,0.859356324,177
+525,Kuwait,Bulgaria,0.963568305,177
+526,Kuwait,Belgium,0.852624065,177
+527,Kuwait,Austria,0.901371476,177
+528,Kuwait,Saudi Arabia,0.945183215,179
+529,Kuwait,Romania,0.887767074,177
+530,Kuwait,Paraguay,0.876958989,180
+531,Kuwait,Norway,0.818311015,182
+532,Kuwait,Israel,0.844025499,180
+533,Kuwait,Greece,0.896098745,66
+534,Kuwait,Estonia,0.933210337,162
+535,Kuwait,Czech Republic,0.881503807,175
+536,Kuwait,Uruguay,0.943541264,177
+537,Kuwait,Ukraine,0.92956786,177
+538,Kuwait,Tunisia,0.805936488,178
+539,Kuwait,Taiwan,0.934727908,162
+540,Kuwait,South Korea,0.928404807,179
+541,Kuwait,South Africa,0.875962634,177
+542,Kuwait,Slovakia,0.937241071,162
+543,Kuwait,Singapore,0.829037168,142
+544,Kuwait,Puerto Rico,0.739601272,182
+545,Kuwait,New Zealand,0.937374378,177
+546,Kuwait,Malaysia,0.793150044,166
+547,Kuwait,Latvia,0.947016667,177
+548,Kuwait,Japan,0.814915239,162
+549,Kuwait,Italy,0.952879889,132
+550,Kuwait,Croatia,0.172997281,182
+551,Kuwait,Canada,0.850258795,177
+552,Kuwait,Brazil,0.92032829,177
+553,Kuwait,Australia,0.881327331,177
+554,Kuwait,Argentina,0.852262234,177
+555,Kuwait,Lebanon,0.744560653,178
+556,Kuwait,Jordan,0.797398957,181
+557,Kuwait,China,0.565947487,179
+558,Ireland,Hungary,0.962967661,176
+559,Ireland,Germany,0.994657469,183
+560,Ireland,France,0.983099103,183
+561,Ireland,Finland,0.870667657,180
+562,Ireland,Denmark,0.943927475,168
+563,Ireland,Colombia,0.964665574,132
+564,Ireland,Chile,0.916565971,183
+565,Ireland,Bulgaria,0.939178003,183
+566,Ireland,Belgium,0.984581756,183
+567,Ireland,Austria,0.986544316,183
+568,Ireland,Saudi Arabia,0.983690315,173
+569,Ireland,Romania,0.975007715,183
+570,Ireland,Paraguay,0.842254468,180
+571,Ireland,Norway,0.944197304,178
+572,Ireland,Israel,0.955128585,180
+573,Ireland,Greece,0.948985591,60
+574,Ireland,Estonia,0.967582375,156
+575,Ireland,Czech Republic,0.976917124,169
+576,Ireland,Uruguay,0.969038471,183
+577,Ireland,Ukraine,0.910752787,183
+578,Ireland,Tunisia,0.805694924,182
+579,Ireland,Taiwan,0.987819396,156
+580,Ireland,South Korea,0.988478097,181
+581,Ireland,South Africa,0.980942359,183
+582,Ireland,Slovakia,0.984873984,156
+583,Ireland,Singapore,0.880980422,136
+584,Ireland,Puerto Rico,0.89724037,178
+585,Ireland,New Zealand,0.976305358,183
+586,Ireland,Malaysia,0.906548811,160
+587,Ireland,Latvia,0.939493336,183
+588,Ireland,Japan,0.909196385,156
+589,Ireland,Italy,0.971127829,126
+590,Ireland,Croatia,0.37109698,178
+591,Ireland,Canada,0.977455454,183
+592,Ireland,Brazil,0.985687675,183
+593,Ireland,Australia,0.986550307,183
+594,Ireland,Argentina,0.965618851,171
+595,Ireland,Lebanon,0.756792013,172
+596,Ireland,Jordan,0.784888349,179
+597,Ireland,China,0.652412175,181
+598,Hungary,Germany,0.953008674,176
+599,Hungary,France,0.958203602,176
+600,Hungary,Finland,0.819531926,179
+601,Hungary,Denmark,0.938162554,175
+602,Hungary,Colombia,0.95272097,139
+603,Hungary,Chile,0.869980289,176
+604,Hungary,Bulgaria,0.878631971,176
+605,Hungary,Belgium,0.966909816,176
+606,Hungary,Austria,0.945649273,176
+607,Hungary,Saudi Arabia,0.945305485,180
+608,Hungary,Romania,0.954304281,176
+609,Hungary,Paraguay,0.776721492,179
+610,Hungary,Norway,0.931756802,181
+611,Hungary,Israel,0.936145602,179
+612,Hungary,Greece,0.990664937,67
+613,Hungary,Estonia,0.898770898,163
+614,Hungary,Czech Republic,0.964375719,176
+615,Hungary,Uruguay,0.923443209,176
+616,Hungary,Ukraine,0.850162565,176
+617,Hungary,Tunisia,0.732396546,177
+618,Hungary,Taiwan,0.941907271,163
+619,Hungary,South Korea,0.949522824,178
+620,Hungary,South Africa,0.950705533,176
+621,Hungary,Slovakia,0.920338416,163
+622,Hungary,Singapore,0.869311556,143
+623,Hungary,Puerto Rico,0.917614378,181
+624,Hungary,New Zealand,0.936195046,176
+625,Hungary,Malaysia,0.924072173,167
+626,Hungary,Latvia,0.879332413,176
+627,Hungary,Japan,0.908984376,163
+628,Hungary,Italy,0.899275971,133
+629,Hungary,Croatia,0.510415145,181
+630,Hungary,Canada,0.95022903,176
+631,Hungary,Brazil,0.950532209,176
+632,Hungary,Australia,0.96524709,176
+633,Hungary,Argentina,0.967246085,178
+634,Hungary,Lebanon,0.711998066,179
+635,Hungary,Jordan,0.721337529,180
+636,Hungary,China,0.639479877,178
+637,Germany,France,0.981399172,183
+638,Germany,Finland,0.863749679,180
+639,Germany,Denmark,0.936219724,168
+640,Germany,Colombia,0.962037681,132
+641,Germany,Chile,0.91950907,183
+642,Germany,Bulgaria,0.952662738,183
+643,Germany,Belgium,0.98184083,183
+644,Germany,Austria,0.987033564,183
+645,Germany,Saudi Arabia,0.987047446,173
+646,Germany,Romania,0.974063819,183
+647,Germany,Paraguay,0.853964409,180
+648,Germany,Norway,0.940177256,178
+649,Germany,Israel,0.95032269,180
+650,Germany,Greece,0.971608927,60
+651,Germany,Estonia,0.968353816,156
+652,Germany,Czech Republic,0.971272814,169
+653,Germany,Uruguay,0.975104305,183
+654,Germany,Ukraine,0.923413408,183
+655,Germany,Tunisia,0.809178166,182
+656,Germany,Taiwan,0.986814681,156
+657,Germany,South Korea,0.990448373,181
+658,Germany,South Africa,0.976846726,183
+659,Germany,Slovakia,0.985364893,156
+660,Germany,Singapore,0.885114417,136
+661,Germany,Puerto Rico,0.888344376,178
+662,Germany,New Zealand,0.981485245,183
+663,Germany,Malaysia,0.886908075,160
+664,Germany,Latvia,0.949172054,183
+665,Germany,Japan,0.895545449,156
+666,Germany,Italy,0.976246268,126
+667,Germany,Croatia,0.338736066,178
+668,Germany,Canada,0.972514652,183
+669,Germany,Brazil,0.985737675,183
+670,Germany,Australia,0.986529703,183
+671,Germany,Argentina,0.95787854,171
+672,Germany,Lebanon,0.757072322,172
+673,Germany,Jordan,0.789995761,179
+674,Germany,China,0.643783778,181
+675,France,Finland,0.862966198,180
+676,France,Denmark,0.932839957,168
+677,France,Colombia,0.949155214,132
+678,France,Chile,0.88971696,183
+679,France,Bulgaria,0.931479025,183
+680,France,Belgium,0.979454153,183
+681,France,Austria,0.97962615,183
+682,France,Saudi Arabia,0.978888144,173
+683,France,Romania,0.981117259,183
+684,France,Paraguay,0.809669886,180
+685,France,Norway,0.925912728,178
+686,France,Israel,0.947211662,180
+687,France,Greece,0.825586493,60
+688,France,Estonia,0.947494,156
+689,France,Czech Republic,0.978630075,169
+690,France,Uruguay,0.96000211,183
+691,France,Ukraine,0.892363531,183
+692,France,Tunisia,0.766868194,182
+693,France,Taiwan,0.976666794,156
+694,France,South Korea,0.979033187,181
+695,France,South Africa,0.966603312,183
+696,France,Slovakia,0.951640229,156
+697,France,Singapore,0.858649612,136
+698,France,Puerto Rico,0.898995353,178
+699,France,New Zealand,0.975547405,183
+700,France,Malaysia,0.924948105,160
+701,France,Latvia,0.921212269,183
+702,France,Japan,0.936629578,156
+703,France,Italy,0.959646025,126
+704,France,Croatia,0.365649274,178
+705,France,Canada,0.971780694,183
+706,France,Brazil,0.983111919,183
+707,France,Australia,0.98515156,183
+708,France,Argentina,0.975740501,171
+709,France,Lebanon,0.694945322,172
+710,France,Jordan,0.737540966,179
+711,France,China,0.683200252,181
+712,Finland,Denmark,0.825975041,171
+713,Finland,Colombia,0.688984921,135
+714,Finland,Chile,0.825432075,180
+715,Finland,Bulgaria,0.817417063,180
+716,Finland,Belgium,0.873252246,180
+717,Finland,Austria,0.870474306,180
+718,Finland,Saudi Arabia,0.809656922,176
+719,Finland,Romania,0.840124998,180
+720,Finland,Paraguay,0.69500388,183
+721,Finland,Norway,0.814994094,181
+722,Finland,Israel,0.797450516,183
+723,Finland,Greece,0.488207622,63
+724,Finland,Estonia,0.758032241,159
+725,Finland,Czech Republic,0.795968797,172
+726,Finland,Uruguay,0.840870764,180
+727,Finland,Ukraine,0.805844254,180
+728,Finland,Tunisia,0.703482345,181
+729,Finland,Taiwan,0.771355286,159
+730,Finland,South Korea,0.839488011,182
+731,Finland,South Africa,0.845125117,180
+732,Finland,Slovakia,0.779070803,159
+733,Finland,Singapore,0.622984959,139
+734,Finland,Puerto Rico,0.768487963,181
+735,Finland,New Zealand,0.856446039,180
+736,Finland,Malaysia,0.735300465,163
+737,Finland,Latvia,0.823154296,180
+738,Finland,Japan,0.750503443,159
+739,Finland,Italy,0.660301967,129
+740,Finland,Croatia,0.398598203,181
+741,Finland,Canada,0.852955658,180
+742,Finland,Brazil,0.847594544,180
+743,Finland,Australia,0.862046047,180
+744,Finland,Argentina,0.802066568,174
+745,Finland,Lebanon,0.634433728,175
+746,Finland,Jordan,0.655889088,182
+747,Finland,China,0.553425156,182
+748,Denmark,Colombia,0.854816763,147
+749,Denmark,Chile,0.905248687,168
+750,Denmark,Bulgaria,0.879603673,168
+751,Denmark,Belgium,0.955475136,168
+752,Denmark,Austria,0.936219032,168
+753,Denmark,Saudi Arabia,0.916941417,178
+754,Denmark,Romania,0.916549899,168
+755,Denmark,Paraguay,0.780473343,171
+756,Denmark,Norway,0.930852496,173
+757,Denmark,Israel,0.906348759,171
+758,Denmark,Greece,0.625364074,75
+759,Denmark,Estonia,0.88122752,171
+760,Denmark,Czech Republic,0.913504526,182
+761,Denmark,Uruguay,0.915445944,168
+762,Denmark,Ukraine,0.886434021,168
+763,Denmark,Tunisia,0.731277636,169
+764,Denmark,Taiwan,0.904656244,171
+765,Denmark,South Korea,0.943281197,170
+766,Denmark,South Africa,0.919643793,168
+767,Denmark,Slovakia,0.887308809,171
+768,Denmark,Singapore,0.807901262,151
+769,Denmark,Puerto Rico,0.867130499,173
+770,Denmark,New Zealand,0.927728366,168
+771,Denmark,Malaysia,0.870135352,175
+772,Denmark,Latvia,0.887873482,168
+773,Denmark,Japan,0.862946813,171
+774,Denmark,Italy,0.808487032,141
+775,Denmark,Croatia,0.515592293,173
+776,Denmark,Canada,0.923753483,168
+777,Denmark,Brazil,0.921326361,168
+778,Denmark,Australia,0.938032326,168
+779,Denmark,Argentina,0.933460071,180
+780,Denmark,Lebanon,0.721485056,179
+781,Denmark,Jordan,0.726854322,172
+782,Denmark,China,0.68371101,170
+783,Colombia,Chile,0.945206429,132
+784,Colombia,Bulgaria,0.951024318,132
+785,Colombia,Belgium,0.974833546,132
+786,Colombia,Austria,0.962137274,132
+787,Colombia,Saudi Arabia,0.951814094,142
+788,Colombia,Romania,0.917081811,132
+789,Colombia,Paraguay,0.898687551,135
+790,Colombia,Norway,0.932044259,137
+791,Colombia,Israel,0.889791957,135
+792,Colombia,Greece,0.904827014,111
+793,Colombia,Estonia,0.921317089,159
+794,Colombia,Czech Republic,0.910977083,146
+795,Colombia,Uruguay,0.956165482,132
+796,Colombia,Ukraine,0.962445957,132
+797,Colombia,Tunisia,0.830708206,133
+798,Colombia,Taiwan,0.951772465,159
+799,Colombia,South Korea,0.975155549,134
+800,Colombia,South Africa,0.921327575,132
+801,Colombia,Slovakia,0.974266878,159
+802,Colombia,Singapore,0.734952863,179
+803,Colombia,Puerto Rico,0.853718786,137
+804,Colombia,New Zealand,0.962910087,132
+805,Colombia,Malaysia,0.846112396,155
+806,Colombia,Latvia,0.962979897,132
+807,Colombia,Japan,0.826207753,159
+808,Colombia,Italy,0.807743363,177
+809,Colombia,Croatia,0.303511089,137
+810,Colombia,Canada,0.938806964,132
+811,Colombia,Brazil,0.938724458,132
+812,Colombia,Australia,0.948204542,132
+813,Colombia,Argentina,0.934158067,144
+814,Colombia,Lebanon,0.855911526,143
+815,Colombia,Jordan,0.84153195,136
+816,Colombia,China,0.535319273,134
+817,Chile,Bulgaria,0.924624193,183
+818,Chile,Belgium,0.885119589,183
+819,Chile,Austria,0.928744799,183
+820,Chile,Saudi Arabia,0.906746662,173
+821,Chile,Romania,0.86034744,183
+822,Chile,Paraguay,0.899346702,180
+823,Chile,Norway,0.934586826,178
+824,Chile,Israel,0.875312838,180
+825,Chile,Greece,0.979511053,60
+826,Chile,Estonia,0.903891773,156
+827,Chile,Czech Republic,0.839062705,169
+828,Chile,Uruguay,0.937838081,183
+829,Chile,Ukraine,0.964910143,183
+830,Chile,Tunisia,0.880912543,182
+831,Chile,Taiwan,0.902324236,156
+832,Chile,South Korea,0.941292672,181
+833,Chile,South Africa,0.886859566,183
+834,Chile,Slovakia,0.956185495,156
+835,Chile,Singapore,0.857619762,136
+836,Chile,Puerto Rico,0.72268705,178
+837,Chile,New Zealand,0.930982244,183
+838,Chile,Malaysia,0.794542673,160
+839,Chile,Latvia,0.958725718,183
+840,Chile,Japan,0.762455492,156
+841,Chile,Italy,0.85923323,126
+842,Chile,Croatia,0.487152725,178
+843,Chile,Canada,0.840205107,183
+844,Chile,Brazil,0.894369589,183
+845,Chile,Australia,0.884759458,183
+846,Chile,Argentina,0.838234454,171
+847,Chile,Lebanon,0.8958612,172
+848,Chile,Jordan,0.878107035,179
+849,Chile,China,0.625202276,181
+850,Bulgaria,Belgium,0.895237437,183
+851,Bulgaria,Austria,0.938157836,183
+852,Bulgaria,Saudi Arabia,0.975212307,173
+853,Bulgaria,Romania,0.925660016,183
+854,Bulgaria,Paraguay,0.929572956,180
+855,Bulgaria,Norway,0.880848875,178
+856,Bulgaria,Israel,0.906463449,180
+857,Bulgaria,Greece,0.9114823,60
+858,Bulgaria,Estonia,0.964924271,156
+859,Bulgaria,Czech Republic,0.913483912,169
+860,Bulgaria,Uruguay,0.972672979,183
+861,Bulgaria,Ukraine,0.961322134,183
+862,Bulgaria,Tunisia,0.873811591,182
+863,Bulgaria,Taiwan,0.965354439,156
+864,Bulgaria,South Korea,0.966409806,181
+865,Bulgaria,South Africa,0.914561599,183
+866,Bulgaria,Slovakia,0.984703625,156
+867,Bulgaria,Singapore,0.872646422,136
+868,Bulgaria,Puerto Rico,0.776993188,178
+869,Bulgaria,New Zealand,0.975325833,183
+870,Bulgaria,Malaysia,0.827714979,160
+871,Bulgaria,Latvia,0.984991674,183
+872,Bulgaria,Japan,0.858378947,156
+873,Bulgaria,Italy,0.979380246,126
+874,Bulgaria,Croatia,0.228087725,178
+875,Bulgaria,Canada,0.887769357,183
+876,Bulgaria,Brazil,0.954812738,183
+877,Bulgaria,Australia,0.920123596,183
+878,Bulgaria,Argentina,0.88712311,171
+879,Bulgaria,Lebanon,0.770311776,172
+880,Bulgaria,Jordan,0.839333804,179
+881,Bulgaria,China,0.602115675,181
+882,Belgium,Austria,0.978895308,183
+883,Belgium,Saudi Arabia,0.956906581,173
+884,Belgium,Romania,0.963773874,183
+885,Belgium,Paraguay,0.783289788,180
+886,Belgium,Norway,0.947724591,178
+887,Belgium,Israel,0.949190114,180
+888,Belgium,Greece,0.945608464,60
+889,Belgium,Estonia,0.938288011,156
+890,Belgium,Czech Republic,0.971913624,169
+891,Belgium,Uruguay,0.933525707,183
+892,Belgium,Ukraine,0.86522209,183
+893,Belgium,Tunisia,0.740173078,182
+894,Belgium,Taiwan,0.971117928,156
+895,Belgium,South Korea,0.968750895,181
+896,Belgium,South Africa,0.972475345,183
+897,Belgium,Slovakia,0.959113869,156
+898,Belgium,Singapore,0.881277314,136
+899,Belgium,Puerto Rico,0.92657366,178
+900,Belgium,New Zealand,0.949828085,183
+901,Belgium,Malaysia,0.903871438,160
+902,Belgium,Latvia,0.89414782,183
+903,Belgium,Japan,0.907475432,156
+904,Belgium,Italy,0.952401441,126
+905,Belgium,Croatia,0.421218768,178
+906,Belgium,Canada,0.984674397,183
+907,Belgium,Brazil,0.963256847,183
+908,Belgium,Australia,0.987308098,183
+909,Belgium,Argentina,0.972772651,171
+910,Belgium,Lebanon,0.700631923,172
+911,Belgium,Jordan,0.719552338,179
+912,Belgium,China,0.665414381,181
+913,Austria,Saudi Arabia,0.9738031,173
+914,Austria,Romania,0.960722605,183
+915,Austria,Paraguay,0.839170236,180
+916,Austria,Norway,0.950503845,178
+917,Austria,Israel,0.938348423,180
+918,Austria,Greece,0.876291879,60
+919,Austria,Estonia,0.951946197,156
+920,Austria,Czech Republic,0.950287803,169
+921,Austria,Uruguay,0.962726517,183
+922,Austria,Ukraine,0.916732428,183
+923,Austria,Tunisia,0.792892254,182
+924,Austria,Taiwan,0.973640473,156
+925,Austria,South Korea,0.985050195,181
+926,Austria,South Africa,0.962320158,183
+927,Austria,Slovakia,0.976391683,156
+928,Austria,Singapore,0.890745469,136
+929,Austria,Puerto Rico,0.876351273,178
+930,Austria,New Zealand,0.975439708,183
+931,Austria,Malaysia,0.885116843,160
+932,Austria,Latvia,0.939830067,183
+933,Austria,Japan,0.88024286,156
+934,Austria,Italy,0.949556611,126
+935,Austria,Croatia,0.399372217,178
+936,Austria,Canada,0.963914568,183
+937,Austria,Brazil,0.973022869,183
+938,Austria,Australia,0.980922624,183
+939,Austria,Argentina,0.94719856,171
+940,Austria,Lebanon,0.761148762,172
+941,Austria,Jordan,0.775897906,179
+942,Austria,China,0.674633539,181
+943,Saudi Arabia,Romania,0.98087733,173
+944,Saudi Arabia,Paraguay,0.867511762,176
+945,Saudi Arabia,Norway,0.910323197,178
+946,Saudi Arabia,Israel,0.939304233,176
+947,Saudi Arabia,Greece,0.987089926,70
+948,Saudi Arabia,Estonia,0.977044401,166
+949,Saudi Arabia,Czech Republic,0.973089155,179
+950,Saudi Arabia,Uruguay,0.989065763,173
+951,Saudi Arabia,Ukraine,0.937587016,173
+952,Saudi Arabia,Tunisia,0.80735035,174
+953,Saudi Arabia,Taiwan,0.99641261,166
+954,Saudi Arabia,South Korea,0.992246511,175
+955,Saudi Arabia,South Africa,0.957868445,173
+956,Saudi Arabia,Slovakia,0.979137451,166
+957,Saudi Arabia,Singapore,0.899542153,146
+958,Saudi Arabia,Puerto Rico,0.859769308,178
+959,Saudi Arabia,New Zealand,0.992811099,173
+960,Saudi Arabia,Malaysia,0.912282327,170
+961,Saudi Arabia,Latvia,0.960114841,173
+962,Saudi Arabia,Japan,0.932196058,166
+963,Saudi Arabia,Italy,0.993663183,136
+964,Saudi Arabia,Croatia,0.344455666,178
+965,Saudi Arabia,Canada,0.952922889,173
+966,Saudi Arabia,Brazil,0.995695885,173
+967,Saudi Arabia,Australia,0.972184336,173
+968,Saudi Arabia,Argentina,0.961311296,181
+969,Saudi Arabia,Lebanon,0.76764199,182
+970,Saudi Arabia,Jordan,0.792719675,177
+971,Saudi Arabia,China,0.642724068,175
+972,Romania,Paraguay,0.77518935,180
+973,Romania,Norway,0.896624334,178
+974,Romania,Israel,0.934934147,180
+975,Romania,Greece,0.971428435,60
+976,Romania,Estonia,0.94619698,156
+977,Romania,Czech Republic,0.985995143,169
+978,Romania,Uruguay,0.957200469,183
+979,Romania,Ukraine,0.87303782,183
+980,Romania,Tunisia,0.728509833,182
+981,Romania,Taiwan,0.98012954,156
+982,Romania,South Korea,0.974036456,181
+983,Romania,South Africa,0.958274514,183
+984,Romania,Slovakia,0.930650774,156
+985,Romania,Singapore,0.861875601,136
+986,Romania,Puerto Rico,0.903927245,178
+987,Romania,New Zealand,0.96811503,183
+988,Romania,Malaysia,0.919981018,160
+989,Romania,Latvia,0.903848113,183
+990,Romania,Japan,0.957156231,156
+991,Romania,Italy,0.974324322,126
+992,Romania,Croatia,0.321849337,178
+993,Romania,Canada,0.967807522,183
+994,Romania,Brazil,0.988623525,183
+995,Romania,Australia,0.978615711,183
+996,Romania,Argentina,0.981468784,171
+997,Romania,Lebanon,0.637067751,172
+998,Romania,Jordan,0.691719772,179
+999,Romania,China,0.668523775,181
+1000,Paraguay,Norway,0.818796418,181
+1001,Paraguay,Israel,0.828309873,183
+1002,Paraguay,Greece,0.950590583,63
+1003,Paraguay,Estonia,0.866444949,159
+1004,Paraguay,Czech Republic,0.781002507,172
+1005,Paraguay,Uruguay,0.873048353,180
+1006,Paraguay,Ukraine,0.917246221,180
+1007,Paraguay,Tunisia,0.933147585,181
+1008,Paraguay,Taiwan,0.857286462,159
+1009,Paraguay,South Korea,0.86294394,182
+1010,Paraguay,South Africa,0.816342737,180
+1011,Paraguay,Slovakia,0.938817404,159
+1012,Paraguay,Singapore,0.774372262,139
+1013,Paraguay,Puerto Rico,0.624333329,181
+1014,Paraguay,New Zealand,0.873295928,180
+1015,Paraguay,Malaysia,0.717611123,163
+1016,Paraguay,Latvia,0.943641026,180
+1017,Paraguay,Japan,0.687074681,159
+1018,Paraguay,Italy,0.886455658,129
+1019,Paraguay,Croatia,0.25671093,181
+1020,Paraguay,Canada,0.755268735,180
+1021,Paraguay,Brazil,0.826424342,180
+1022,Paraguay,Australia,0.798709882,180
+1023,Paraguay,Argentina,0.741405023,174
+1024,Paraguay,Lebanon,0.87897971,175
+1025,Paraguay,Jordan,0.9243633,182
+1026,Paraguay,China,0.462218785,182
+1027,Norway,Israel,0.90897756,181
+1028,Norway,Greece,0.91932177,65
+1029,Norway,Estonia,0.87532997,161
+1030,Norway,Czech Republic,0.879330999,174
+1031,Norway,Uruguay,0.916010647,178
+1032,Norway,Ukraine,0.897590738,178
+1033,Norway,Tunisia,0.772457534,179
+1034,Norway,Taiwan,0.898153959,161
+1035,Norway,South Korea,0.941286687,180
+1036,Norway,South Africa,0.92191957,178
+1037,Norway,Slovakia,0.923047508,161
+1038,Norway,Singapore,0.85737491,141
+1039,Norway,Puerto Rico,0.849736606,183
+1040,Norway,New Zealand,0.923032006,178
+1041,Norway,Malaysia,0.844991868,165
+1042,Norway,Latvia,0.899709982,178
+1043,Norway,Japan,0.792031087,161
+1044,Norway,Italy,0.818016955,131
+1045,Norway,Croatia,0.588950741,183
+1046,Norway,Canada,0.914673466,178
+1047,Norway,Brazil,0.91147909,178
+1048,Norway,Australia,0.932017996,178
+1049,Norway,Argentina,0.895771983,176
+1050,Norway,Lebanon,0.802426125,177
+1051,Norway,Jordan,0.782772376,182
+1052,Norway,China,0.682377323,180
+1053,Israel,Greece,0.944193224,63
+1054,Israel,Estonia,0.898939003,159
+1055,Israel,Czech Republic,0.940935024,172
+1056,Israel,Uruguay,0.924382823,180
+1057,Israel,Ukraine,0.862233377,180
+1058,Israel,Tunisia,0.770747938,181
+1059,Israel,Taiwan,0.924535566,159
+1060,Israel,South Korea,0.946232838,182
+1061,Israel,South Africa,0.949297888,180
+1062,Israel,Slovakia,0.923397965,159
+1063,Israel,Singapore,0.804579216,139
+1064,Israel,Puerto Rico,0.88343012,181
+1065,Israel,New Zealand,0.936962646,180
+1066,Israel,Malaysia,0.869764326,163
+1067,Israel,Latvia,0.904577782,180
+1068,Israel,Japan,0.850182798,159
+1069,Israel,Italy,0.873033336,129
+1070,Israel,Croatia,0.388710795,181
+1071,Israel,Canada,0.936392176,180
+1072,Israel,Brazil,0.945272104,180
+1073,Israel,Australia,0.951680975,180
+1074,Israel,Argentina,0.927394318,174
+1075,Israel,Lebanon,0.723190543,175
+1076,Israel,Jordan,0.758206202,182
+1077,Israel,China,0.664358137,182
+1078,Greece,Estonia,0.733181822,87
+1079,Greece,Czech Republic,0.804679975,74
+1080,Greece,Uruguay,0.963505716,60
+1081,Greece,Ukraine,0.979794342,60
+1082,Greece,Tunisia,0.702052281,61
+1083,Greece,Taiwan,0.951398735,87
+1084,Greece,South Korea,0.990391455,62
+1085,Greece,South Africa,0.876234812,60
+1086,Greece,Slovakia,0.974662191,87
+1087,Greece,Singapore,0.561370384,107
+1088,Greece,Puerto Rico,0.336429441,65
+1089,Greece,New Zealand,0.913060576,60
+1090,Greece,Malaysia,0.657542496,83
+1091,Greece,Latvia,0.985651922,60
+1092,Greece,Japan,0.617056183,87
+1093,Greece,Italy,0.315488841,117
+1094,Greece,Croatia,0.908962606,65
+1095,Greece,Canada,0.812172763,60
+1096,Greece,Brazil,0.959808626,60
+1097,Greece,Australia,0.842716654,60
+1098,Greece,Argentina,0.881194811,72
+1099,Greece,Lebanon,0.888396531,71
+1100,Greece,Jordan,0.779088615,64
+1101,Greece,China,0.538070364,62
+1102,Estonia,Czech Republic,0.943365926,170
+1103,Estonia,Uruguay,0.978419286,156
+1104,Estonia,Ukraine,0.948614141,156
+1105,Estonia,Tunisia,0.838913565,157
+1106,Estonia,Taiwan,0.979275086,183
+1107,Estonia,South Korea,0.975230031,158
+1108,Estonia,South Africa,0.936569979,156
+1109,Estonia,Slovakia,0.967883325,183
+1110,Estonia,Singapore,0.887388012,163
+1111,Estonia,Puerto Rico,0.799172784,161
+1112,Estonia,New Zealand,0.976380364,156
+1113,Estonia,Malaysia,0.877428348,179
+1114,Estonia,Latvia,0.954073425,156
+1115,Estonia,Japan,0.904584411,183
+1116,Estonia,Italy,0.953486606,153
+1117,Estonia,Croatia,0.248490246,161
+1118,Estonia,Canada,0.956441258,156
+1119,Estonia,Brazil,0.973873088,156
+1120,Estonia,Australia,0.945204186,156
+1121,Estonia,Argentina,0.932000448,168
+1122,Estonia,Lebanon,0.78163032,167
+1123,Estonia,Jordan,0.819080098,160
+1124,Estonia,China,0.582967749,158
+1125,Czech Republic,Uruguay,0.95103656,169
+1126,Czech Republic,Ukraine,0.861119438,169
+1127,Czech Republic,Tunisia,0.732893309,170
+1128,Czech Republic,Taiwan,0.9745488,170
+1129,Czech Republic,South Korea,0.963206471,171
+1130,Czech Republic,South Africa,0.966724135,169
+1131,Czech Republic,Slovakia,0.928176168,170
+1132,Czech Republic,Singapore,0.859403791,150
+1133,Czech Republic,Puerto Rico,0.92805773,174
+1134,Czech Republic,New Zealand,0.959239927,169
+1135,Czech Republic,Malaysia,0.934047048,174
+1136,Czech Republic,Latvia,0.895212125,169
+1137,Czech Republic,Japan,0.957278329,170
+1138,Czech Republic,Italy,0.982667672,140
+1139,Czech Republic,Croatia,0.334988913,174
+1140,Czech Republic,Canada,0.97548844,169
+1141,Czech Republic,Brazil,0.984100778,169
+1142,Czech Republic,Australia,0.980619005,169
+1143,Czech Republic,Argentina,0.986291527,181
+1144,Czech Republic,Lebanon,0.678871359,180
+1145,Czech Republic,Jordan,0.711216835,173
+1146,Czech Republic,China,0.616090541,171
+1147,Uruguay,Ukraine,0.962907799,183
+1148,Uruguay,Tunisia,0.847584797,182
+1149,Uruguay,Taiwan,0.988546039,156
+1150,Uruguay,South Korea,0.986960927,181
+1151,Uruguay,South Africa,0.950221367,183
+1152,Uruguay,Slovakia,0.9809971,156
+1153,Uruguay,Singapore,0.897156259,136
+1154,Uruguay,Puerto Rico,0.827940308,178
+1155,Uruguay,New Zealand,0.989058628,183
+1156,Uruguay,Malaysia,0.882886211,160
+1157,Uruguay,Latvia,0.971265058,183
+1158,Uruguay,Japan,0.902802325,156
+1159,Uruguay,Italy,0.972156048,126
+1160,Uruguay,Croatia,0.331403966,178
+1161,Uruguay,Canada,0.921445144,183
+1162,Uruguay,Brazil,0.981176174,183
+1163,Uruguay,Australia,0.952093034,183
+1164,Uruguay,Argentina,0.930069799,171
+1165,Uruguay,Lebanon,0.791916111,172
+1166,Uruguay,Jordan,0.826295126,179
+1167,Uruguay,China,0.676364004,181
+1168,Ukraine,Tunisia,0.896863779,182
+1169,Ukraine,Taiwan,0.940083133,156
+1170,Ukraine,South Korea,0.945331336,181
+1171,Ukraine,South Africa,0.89042502,183
+1172,Ukraine,Slovakia,0.975033762,156
+1173,Ukraine,Singapore,0.878850862,136
+1174,Ukraine,Puerto Rico,0.717275246,178
+1175,Ukraine,New Zealand,0.948403306,183
+1176,Ukraine,Malaysia,0.799297659,160
+1177,Ukraine,Latvia,0.981899615,183
+1178,Ukraine,Japan,0.801829114,156
+1179,Ukraine,Italy,0.933833351,126
+1180,Ukraine,Croatia,0.340751786,178
+1181,Ukraine,Canada,0.833396437,183
+1182,Ukraine,Brazil,0.912460962,183
+1183,Ukraine,Australia,0.877303639,183
+1184,Ukraine,Argentina,0.840960008,171
+1185,Ukraine,Lebanon,0.867032567,172
+1186,Ukraine,Jordan,0.890311336,179
+1187,Ukraine,China,0.626638117,181
+1188,Tunisia,Taiwan,0.798173489,157
+1189,Tunisia,South Korea,0.808320055,182
+1190,Tunisia,South Africa,0.787208851,182
+1191,Tunisia,Slovakia,0.887735432,157
+1192,Tunisia,Singapore,0.711778507,137
+1193,Tunisia,Puerto Rico,0.571999784,179
+1194,Tunisia,New Zealand,0.830724668,182
+1195,Tunisia,Malaysia,0.672230773,161
+1196,Tunisia,Latvia,0.904541596,182
+1197,Tunisia,Japan,0.643099595,157
+1198,Tunisia,Italy,0.800377065,127
+1199,Tunisia,Croatia,0.266249853,179
+1200,Tunisia,Canada,0.711760704,182
+1201,Tunisia,Brazil,0.782429353,182
+1202,Tunisia,Australia,0.752900333,182
+1203,Tunisia,Argentina,0.68645871,172
+1204,Tunisia,Lebanon,0.880843547,173
+1205,Tunisia,Jordan,0.956663483,180
+1206,Tunisia,China,0.420521502,182
+1207,Taiwan,South Korea,0.992831023,158
+1208,Taiwan,South Africa,0.956801549,156
+1209,Taiwan,Slovakia,0.976544971,183
+1210,Taiwan,Singapore,0.919223804,163
+1211,Taiwan,Puerto Rico,0.844272697,161
+1212,Taiwan,New Zealand,0.989372509,156
+1213,Taiwan,Malaysia,0.921934139,179
+1214,Taiwan,Latvia,0.952564443,156
+1215,Taiwan,Japan,0.934753507,183
+1216,Taiwan,Italy,0.97933413,153
+1217,Taiwan,Croatia,0.295497454,161
+1218,Taiwan,Canada,0.983782492,156
+1219,Taiwan,Brazil,0.995652434,156
+1220,Taiwan,Australia,0.977580674,156
+1221,Taiwan,Argentina,0.970412135,168
+1222,Taiwan,Lebanon,0.777457226,167
+1223,Taiwan,Jordan,0.793445156,160
+1224,Taiwan,China,0.617842469,158
+1225,South Korea,South Africa,0.9651493,181
+1226,South Korea,Slovakia,0.988361846,158
+1227,South Korea,Singapore,0.908764591,138
+1228,South Korea,Puerto Rico,0.86658528,180
+1229,South Korea,New Zealand,0.990763671,181
+1230,South Korea,Malaysia,0.897575647,162
+1231,South Korea,Latvia,0.963138586,181
+1232,South Korea,Japan,0.90815233,158
+1233,South Korea,Italy,0.982164092,128
+1234,South Korea,Croatia,0.397178803,180
+1235,South Korea,Canada,0.957065164,181
+1236,South Korea,Brazil,0.990129482,181
+1237,South Korea,Australia,0.975793907,181
+1238,South Korea,Argentina,0.958123365,173
+1239,South Korea,Lebanon,0.771287038,174
+1240,South Korea,Jordan,0.795436793,181
+1241,South Korea,China,0.663791104,183
+1242,South Africa,Slovakia,0.949041917,156
+1243,South Africa,Singapore,0.823209987,136
+1244,South Africa,Puerto Rico,0.906791911,178
+1245,South Africa,New Zealand,0.954774093,183
+1246,South Africa,Malaysia,0.875863813,160
+1247,South Africa,Latvia,0.91960303,183
+1248,South Africa,Japan,0.876997113,156
+1249,South Africa,Italy,0.936035261,126
+1250,South Africa,Croatia,0.347765178,178
+1251,South Africa,Canada,0.961953654,183
+1252,South Africa,Brazil,0.968746636,183
+1253,South Africa,Australia,0.971801194,183
+1254,South Africa,Argentina,0.948988576,171
+1255,South Africa,Lebanon,0.728432788,172
+1256,South Africa,Jordan,0.76161645,179
+1257,South Africa,China,0.635053381,181
+1258,Slovakia,Singapore,0.915001842,163
+1259,Slovakia,Puerto Rico,0.781664591,161
+1260,Slovakia,New Zealand,0.981518183,156
+1261,Slovakia,Malaysia,0.874086974,179
+1262,Slovakia,Latvia,0.991189911,156
+1263,Slovakia,Japan,0.865085882,183
+1264,Slovakia,Italy,0.952054093,153
+1265,Slovakia,Croatia,0.308295389,161
+1266,Slovakia,Canada,0.955255452,156
+1267,Slovakia,Brazil,0.964677362,156
+1268,Slovakia,Australia,0.954859875,156
+1269,Slovakia,Argentina,0.920781472,168
+1270,Slovakia,Lebanon,0.866622655,167
+1271,Slovakia,Jordan,0.881468803,160
+1272,Slovakia,China,0.558483343,158
+1273,Singapore,Puerto Rico,0.822718995,141
+1274,Singapore,New Zealand,0.893667715,136
+1275,Singapore,Malaysia,0.806060435,159
+1276,Singapore,Latvia,0.856295599,136
+1277,Singapore,Japan,0.806581332,163
+1278,Singapore,Italy,0.825796694,173
+1279,Singapore,Croatia,0.347346205,141
+1280,Singapore,Canada,0.869365023,136
+1281,Singapore,Brazil,0.886834382,136
+1282,Singapore,Australia,0.877159737,136
+1283,Singapore,Argentina,0.869752172,148
+1284,Singapore,Lebanon,0.751265922,147
+1285,Singapore,Jordan,0.71973581,140
+1286,Singapore,China,0.582926385,138
+1287,Puerto Rico,New Zealand,0.849696245,178
+1288,Puerto Rico,Malaysia,0.827890781,165
+1289,Puerto Rico,Latvia,0.75642257,178
+1290,Puerto Rico,Japan,0.856403444,161
+1291,Puerto Rico,Italy,0.895055414,131
+1292,Puerto Rico,Croatia,0.410215942,183
+1293,Puerto Rico,Canada,0.928938999,178
+1294,Puerto Rico,Brazil,0.888990547,178
+1295,Puerto Rico,Australia,0.918659592,178
+1296,Puerto Rico,Argentina,0.922198952,176
+1297,Puerto Rico,Lebanon,0.500598594,177
+1298,Puerto Rico,Jordan,0.544551202,182
+1299,Puerto Rico,China,0.614232435,180
+1300,New Zealand,Malaysia,0.896403259,160
+1301,New Zealand,Latvia,0.96604795,183
+1302,New Zealand,Japan,0.913889397,156
+1303,New Zealand,Italy,0.976400706,126
+1304,New Zealand,Croatia,0.336893548,178
+1305,New Zealand,Canada,0.942595983,183
+1306,New Zealand,Brazil,0.986945343,183
+1307,New Zealand,Australia,0.970764853,183
+1308,New Zealand,Argentina,0.946149646,171
+1309,New Zealand,Lebanon,0.762252815,172
+1310,New Zealand,Jordan,0.803904815,179
+1311,New Zealand,China,0.691388117,181
+1312,Malaysia,Latvia,0.820590049,160
+1313,Malaysia,Japan,0.92583931,179
+1314,Malaysia,Italy,0.828947338,149
+1315,Malaysia,Croatia,0.411894548,165
+1316,Malaysia,Canada,0.912013346,160
+1317,Malaysia,Brazil,0.913073348,160
+1318,Malaysia,Australia,0.913867891,160
+1319,Malaysia,Argentina,0.946410437,172
+1320,Malaysia,Lebanon,0.659946722,171
+1321,Malaysia,Jordan,0.673705895,164
+1322,Malaysia,China,0.645699608,162
+1323,Latvia,Japan,0.819485684,156
+1324,Latvia,Italy,0.953350459,126
+1325,Latvia,Croatia,0.284920021,178
+1326,Latvia,Canada,0.871401608,183
+1327,Latvia,Brazil,0.938009936,183
+1328,Latvia,Australia,0.910728382,183
+1329,Latvia,Argentina,0.869448678,171
+1330,Latvia,Lebanon,0.846128419,172
+1331,Latvia,Jordan,0.887865987,179
+1332,Latvia,China,0.596992527,181
+1333,Japan,Italy,0.894621599,153
+1334,Japan,Croatia,0.305795529,161
+1335,Japan,Canada,0.940803721,156
+1336,Japan,Brazil,0.946516209,156
+1337,Japan,Australia,0.916805749,156
+1338,Japan,Argentina,0.965072269,168
+1339,Japan,Lebanon,0.594407277,167
+1340,Japan,Jordan,0.612542245,160
+1341,Japan,China,0.623663365,158
+1342,Italy,Croatia,0.045689782,131
+1343,Italy,Canada,0.975933328,126
+1344,Italy,Brazil,0.99001523,126
+1345,Italy,Australia,0.965801648,126
+1346,Italy,Argentina,0.973145461,138
+1347,Italy,Lebanon,0.775996517,137
+1348,Italy,Jordan,0.794219784,130
+1349,Italy,China,0.425204483,128
+1350,Croatia,Canada,0.354200214,178
+1351,Croatia,Brazil,0.322231907,178
+1352,Croatia,Australia,0.375105314,178
+1353,Croatia,Argentina,0.411453829,176
+1354,Croatia,Lebanon,0.443880446,177
+1355,Croatia,Jordan,0.318504003,182
+1356,Croatia,China,0.487309711,180
+1357,Canada,Brazil,0.966843051,183
+1358,Canada,Australia,0.983917444,183
+1359,Canada,Argentina,0.976151992,171
+1360,Canada,Lebanon,0.631706736,172
+1361,Canada,Jordan,0.679443552,179
+1362,Canada,China,0.647625627,181
+1363,Brazil,Australia,0.979247854,183
+1364,Brazil,Argentina,0.971156249,171
+1365,Brazil,Lebanon,0.70163093,172
+1366,Brazil,Jordan,0.750566551,179
+1367,Brazil,China,0.672600299,181
+1368,Australia,Argentina,0.975850335,171
+1369,Australia,Lebanon,0.688307109,172
+1370,Australia,Jordan,0.724709213,179
+1371,Australia,China,0.676934693,181
+1372,Argentina,Lebanon,0.659348244,182
+1373,Argentina,Jordan,0.672416278,175
+1374,Argentina,China,0.648164321,173
+1375,Lebanon,Jordan,0.932572566,176
+1376,Lebanon,China,0.451492196,174
+1377,Jordan,China,0.432945751,181

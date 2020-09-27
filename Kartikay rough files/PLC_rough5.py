@@ -153,8 +153,9 @@ for ind in product_ms_ind.keys():
 
 def get_plc_curve_yearly(product):
     product_data = data[data['product']==product]
-    plt.plot(product_data.groupby(data['date_year']).sum()['value'])
-    plt.show()
+    # plt.plot(product_data.groupby(data['date_year']).sum()['value'])
+    # plt.show()
+    return product_data.groupby(data['date_year']).sum()['value']
 
 
 # In[566]:
@@ -162,9 +163,9 @@ def get_plc_curve_yearly(product):
 
 def get_plc_curve_monthly(product):
     product_data = data[data['product']==product]
-    plt.plot(product_data.groupby(product_data['date']).sum()['value'])
-    plt.show()
-
+    # plt.plot(product_data.groupby(product_data['date']).sum()['value'])
+    # plt.show()
+    return product_data.groupby(product_data['date']).sum()['value']
 
 # In[567]:
 

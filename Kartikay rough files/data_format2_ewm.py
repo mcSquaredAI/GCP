@@ -60,3 +60,6 @@ for k,v in cnt_grp:
 rfeat1 = pd.DataFrame( rfeat , columns = features.columns  )
     
 rfeat1.to_csv( 'country_lvl_agregate_features.csv' )
+
+
+
