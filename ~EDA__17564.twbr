@@ -1,0 +1,978 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20202.20.0721.1350                               -->
+<workbook source-build='2020.2.4 (20202.20.0721.1350)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <_.fcp.SingleValuePerNestSorting.true...SingleValuePerNestSorting />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='combined_final (combined_final)' inline='true' name='federated.18dgjxc07sqzqr16jf30l15qpj7n' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='combined_final' name='excel-direct.1ij5y3516sjbot116v5x41fljrqx'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/Kartikay Gupta/Downloads/combined_final.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1ij5y3516sjbot116v5x41fljrqx' name='combined_final' table='[combined_final$]' type='table'>
+          <columns gridOrigin='A1:N10001:no:A1:N10001:0' header='yes' outcome='6'>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='product' ordinal='1' />
+            <column datatype='string' name='manufacturer' ordinal='2' />
+            <column datatype='string' name='molecule' ordinal='3' />
+            <column datatype='string' name='class' ordinal='4' />
+            <column datatype='string' name='bioSimilar' ordinal='5' />
+            <column datatype='string' name='division' ordinal='6' />
+            <column datatype='string' name='country' ordinal='7' />
+            <column datatype='string' name='area' ordinal='8' />
+            <column datatype='string' name='sub_area' ordinal='9' />
+            <column datatype='string' name='template' ordinal='10' />
+            <column datatype='string' name='indication' ordinal='11' />
+            <column datatype='date' name='date' ordinal='12' />
+            <column datatype='real' name='value' ordinal='13' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.1ij5y3516sjbot116v5x41fljrqx' name='combined_final' table='[combined_final$]' type='table'>
+          <columns gridOrigin='A1:N10001:no:A1:N10001:0' header='yes' outcome='6'>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='product' ordinal='1' />
+            <column datatype='string' name='manufacturer' ordinal='2' />
+            <column datatype='string' name='molecule' ordinal='3' />
+            <column datatype='string' name='class' ordinal='4' />
+            <column datatype='string' name='bioSimilar' ordinal='5' />
+            <column datatype='string' name='division' ordinal='6' />
+            <column datatype='string' name='country' ordinal='7' />
+            <column datatype='string' name='area' ordinal='8' />
+            <column datatype='string' name='sub_area' ordinal='9' />
+            <column datatype='string' name='template' ordinal='10' />
+            <column datatype='string' name='indication' ordinal='11' />
+            <column datatype='date' name='date' ordinal='12' />
+            <column datatype='real' name='value' ordinal='13' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:N10001:no:A1:N10001:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>product</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[product]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>product</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>manufacturer</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[manufacturer]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>manufacturer</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>molecule</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[molecule]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>molecule</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>class</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[class]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>class</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>bioSimilar</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[bioSimilar]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>bioSimilar</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>division</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[division]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>division</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[country]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>country</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>area</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[area]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>area</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sub_area</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[sub_area]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>sub_area</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>template</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[template]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>template</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>indication</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[indication]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>indication</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[date]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>date</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>value</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[value]</local-name>
+            <parent-name>[combined_final]</parent-name>
+            <remote-alias>value</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='real' default-format='p0.00%' name='[Calculation1]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM([value]) / TOTAL(SUM([value]))'>
+          <table-calc ordering-field='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' ordering-type='Field' />
+        </calculation>
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='combined_final' datatype='table' name='[__tableau_internal_object_id__].[combined!final_0999DD0EEB1B443CAEA09E6A74ECA249]' role='measure' type='quantitative' />
+      <column datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column datatype='date' name='[date]' role='dimension' type='ordinal' />
+      <column datatype='string' name='[molecule]' role='dimension' type='nominal' />
+      <column datatype='string' name='[product (group)]' role='dimension' type='nominal'>
+        <calculation class='categorical-bin' column='[product]' new-bin='true' />
+      </column>
+      <column datatype='string' name='[product]' role='dimension' type='nominal' />
+      <column-instance column='[molecule]' derivation='None' name='[none:molecule:nk]' pivot='key' type='nominal' />
+      <column-instance column='[product]' derivation='None' name='[none:product:nk]' pivot='key' type='nominal' />
+      <column-instance column='[date]' derivation='Month-Trunc' name='[tmn:date:qk]' pivot='key' type='quantitative' />
+      <group hidden='true' name='[Inclusions (MONTH(date),product)]' name-style='unqualified' user:auto-column='include'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[tmn:date:qk]' />
+          <groupfilter function='level-members' level='[none:product:nk]' />
+        </groupfilter>
+      </group>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' rowDisplayCount='1000000' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:molecule:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;molecule6&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;molecule17&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;molecule10&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:product:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;prod0&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;prod27&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;prod22&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;prod35&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;prod31&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;prod18&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;prod4&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;prod20&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;prod36&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;prod43&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;prod15&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;prod10&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;prod32&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;prod11&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;India&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='combined_final' id='combined!final_0999DD0EEB1B443CAEA09E6A74ECA249'>
+            <properties context=''>
+              <relation connection='excel-direct.1ij5y3516sjbot116v5x41fljrqx' name='combined_final' table='[combined_final$]' type='table'>
+                <columns gridOrigin='A1:N10001:no:A1:N10001:0' header='yes' outcome='6'>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='product' ordinal='1' />
+                  <column datatype='string' name='manufacturer' ordinal='2' />
+                  <column datatype='string' name='molecule' ordinal='3' />
+                  <column datatype='string' name='class' ordinal='4' />
+                  <column datatype='string' name='bioSimilar' ordinal='5' />
+                  <column datatype='string' name='division' ordinal='6' />
+                  <column datatype='string' name='country' ordinal='7' />
+                  <column datatype='string' name='area' ordinal='8' />
+                  <column datatype='string' name='sub_area' ordinal='9' />
+                  <column datatype='string' name='template' ordinal='10' />
+                  <column datatype='string' name='indication' ordinal='11' />
+                  <column datatype='date' name='date' ordinal='12' />
+                  <column datatype='real' name='value' ordinal='13' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Indication'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='combined_final (combined_final)' name='federated.18dgjxc07sqzqr16jf30l15qpj7n' />
+          </datasources>
+          <datasource-dependencies datasource='federated.18dgjxc07sqzqr16jf30l15qpj7n'>
+            <column datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column datatype='date' name='[date]' role='dimension' type='ordinal' />
+            <column datatype='string' name='[indication]' role='dimension' type='nominal' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[indication]' derivation='None' name='[none:indication:nk]' pivot='key' type='nominal' />
+            <column-instance column='[product]' derivation='None' name='[none:product:nk]' pivot='key' type='nominal' />
+            <column-instance column='[value]' derivation='Sum' name='[pcto:sum:value:qk:11]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='ColumnInPane' type='PctTotal' />
+            </column-instance>
+            <column datatype='string' name='[product]' role='dimension' type='nominal' />
+            <column datatype='real' name='[value]' role='measure' type='quantitative' />
+            <column-instance column='[date]' derivation='Year' name='[yr:date:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:country:nk]'>
+            <groupfilter function='member' level='[none:country:nk]' member='&quot;United Kingdom&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:country:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:indication:nk] * [federated.18dgjxc07sqzqr16jf30l15qpj7n].[pcto:sum:value:qk:11])</rows>
+        <cols>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[yr:date:ok]</cols>
+      </table>
+      <simple-id uuid='{125808AB-D802-4AD0-87DE-14EEB0EBFC2E}' />
+    </worksheet>
+    <worksheet name='Molecule6perCountry'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='combined_final (combined_final)' name='federated.18dgjxc07sqzqr16jf30l15qpj7n' />
+          </datasources>
+          <datasource-dependencies datasource='federated.18dgjxc07sqzqr16jf30l15qpj7n'>
+            <column datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column datatype='date' name='[date]' role='dimension' type='ordinal' />
+            <column datatype='string' name='[molecule]' role='dimension' type='nominal' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[molecule]' derivation='None' name='[none:molecule:nk]' pivot='key' type='nominal' />
+            <column-instance column='[product]' derivation='None' name='[none:product:nk]' pivot='key' type='nominal' />
+            <column-instance column='[value]' derivation='Sum' name='[pcto:sum:value:qk:1]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' ordering-type='Field' type='PctTotal' />
+            </column-instance>
+            <column datatype='string' name='[product]' role='dimension' type='nominal' />
+            <column-instance column='[date]' derivation='Year-Trunc' name='[tyr:date:ok]' pivot='key' type='ordinal' />
+            <column datatype='real' name='[value]' role='measure' type='quantitative' />
+            <column-instance column='[date]' derivation='Year' name='[yr:date:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]'>
+            <groupfilter function='level-members' level='[none:molecule:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[yr:date:ok]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[yr:date:ok]' member='2018' />
+              <groupfilter function='member' level='[yr:date:ok]' member='2019' />
+              <groupfilter function='member' level='[yr:date:ok]' member='2020' />
+            </groupfilter>
+          </filter>
+          <_.fcp.SingleValuePerNestSorting.true...single-value-per-nest-shelf-sorts>
+            <single-value-per-nest-shelf-sort dimension-to-sort='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:country:nk]' direction='ASC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:country:nk]' shelf='rows' />
+          </_.fcp.SingleValuePerNestSorting.true...single-value-per-nest-shelf-sorts>
+          <slices>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]</column>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[yr:date:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <encodings>
+              <color column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' />
+              <wedge-size column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[pcto:sum:value:qk:1]' />
+              <size column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[pcto:sum:value:qk:1]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:country:nk]</rows>
+        <cols>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[tyr:date:ok]</cols>
+      </table>
+      <simple-id uuid='{0EA8B6C3-9798-48A0-AA07-29FFE6E2B6CB}' />
+    </worksheet>
+    <worksheet name='Product Summary'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='combined_final (combined_final)' name='federated.18dgjxc07sqzqr16jf30l15qpj7n' />
+          </datasources>
+          <datasource-dependencies datasource='federated.18dgjxc07sqzqr16jf30l15qpj7n'>
+            <column datatype='string' name='[bioSimilar]' role='dimension' type='nominal' />
+            <column datatype='string' name='[molecule]' role='dimension' type='nominal' />
+            <column-instance column='[bioSimilar]' derivation='None' name='[none:bioSimilar:nk]' pivot='key' type='nominal' />
+            <column-instance column='[molecule]' derivation='None' name='[none:molecule:nk]' pivot='key' type='nominal' />
+            <column-instance column='[product]' derivation='None' name='[none:product:nk]' pivot='key' type='nominal' />
+            <column datatype='string' name='[product]' role='dimension' type='nominal' />
+            <column-instance column='[value]' derivation='Sum' name='[sum:value:qk]' pivot='key' type='quantitative' />
+            <column datatype='real' name='[value]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[sum:value:qk]' shelf='columns' />
+          </shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <size column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:bioSimilar:nk]' />
+              <lod column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[sum:value:qk]</rows>
+        <cols>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]</cols>
+      </table>
+      <simple-id uuid='{0004A7F0-F7BB-4A00-8D2E-880813F93215}' />
+    </worksheet>
+    <worksheet name='SalesTrends_byIndication'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Product Sales over Time by Molecule</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='combined_final (combined_final)' name='federated.18dgjxc07sqzqr16jf30l15qpj7n' />
+          </datasources>
+          <datasource-dependencies datasource='federated.18dgjxc07sqzqr16jf30l15qpj7n'>
+            <column datatype='date' name='[date]' role='dimension' type='ordinal' />
+            <column datatype='string' name='[indication]' role='dimension' type='nominal' />
+            <column datatype='string' name='[molecule]' role='dimension' type='nominal' />
+            <column-instance column='[indication]' derivation='None' name='[none:indication:nk]' pivot='key' type='nominal' />
+            <column-instance column='[molecule]' derivation='None' name='[none:molecule:nk]' pivot='key' type='nominal' />
+            <column-instance column='[date]' derivation='Quarter' name='[qr:date:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[value]' derivation='Sum' name='[sum:value:qk]' pivot='key' type='quantitative' />
+            <column datatype='real' name='[value]' role='measure' type='quantitative' />
+            <column-instance column='[date]' derivation='Year' name='[yr:date:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:indication:nk]'>
+            <groupfilter function='level-members' level='[none:indication:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[qr:date:ok]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[qr:date:ok]' member='1' />
+              <groupfilter function='member' level='[qr:date:ok]' member='2' />
+              <groupfilter function='member' level='[qr:date:ok]' member='3' />
+              <groupfilter function='member' level='[qr:date:ok]' member='4' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:indication:nk]</column>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[qr:date:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[qr:date:ok]' value='129' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]' />
+              <lod column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[sum:value:qk]' />
+              <lod column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[sum:value:qk]</rows>
+        <cols>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[yr:date:ok]</cols>
+      </table>
+      <simple-id uuid='{72FD8176-BB9B-41FB-A42C-EF6A66843414}' />
+    </worksheet>
+    <worksheet name='SalesTrends_byMolecule'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Product Sales over Time by Molecule</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='combined_final (combined_final)' name='federated.18dgjxc07sqzqr16jf30l15qpj7n' />
+          </datasources>
+          <datasource-dependencies datasource='federated.18dgjxc07sqzqr16jf30l15qpj7n'>
+            <column datatype='string' name='[area]' role='dimension' type='nominal' />
+            <column datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column datatype='date' name='[date]' role='dimension' type='ordinal' />
+            <column datatype='string' name='[molecule]' role='dimension' type='nominal' />
+            <column-instance column='[area]' derivation='None' name='[none:area:nk]' pivot='key' type='nominal' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[molecule]' derivation='None' name='[none:molecule:nk]' pivot='key' type='nominal' />
+            <column-instance column='[product]' derivation='None' name='[none:product:nk]' pivot='key' type='nominal' />
+            <column datatype='string' name='[product]' role='dimension' type='nominal' />
+            <column-instance column='[date]' derivation='Quarter' name='[qr:date:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[value]' derivation='Sum' name='[sum:value:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[date]' derivation='Month-Trunc' name='[tmn:date:qk]' pivot='key' type='quantitative' />
+            <column datatype='real' name='[value]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[Inclusions (MONTH(date),product)]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='crossjoin'>
+                <groupfilter function='union'>
+                  <groupfilter function='member' level='[tmn:date:qk]' member='#2020-01-01 00:00:00#' />
+                  <groupfilter function='member' level='[tmn:date:qk]' member='#2020-02-01 00:00:00#' />
+                  <groupfilter function='member' level='[tmn:date:qk]' member='#2020-03-01 00:00:00#' />
+                  <groupfilter function='member' level='[tmn:date:qk]' member='#2020-04-01 00:00:00#' />
+                </groupfilter>
+                <groupfilter function='union'>
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod0&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod10&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod11&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod15&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod18&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod20&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod22&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod27&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod31&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod32&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod35&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod36&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod4&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod43&quot;' />
+                </groupfilter>
+              </groupfilter>
+              <groupfilter function='crossjoin'>
+                <groupfilter function='member' level='[tmn:date:qk]' member='#2020-05-01 00:00:00#' />
+                <groupfilter function='union'>
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod10&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod15&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod22&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod31&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod32&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod35&quot;' />
+                  <groupfilter function='member' level='[none:product:nk]' member='&quot;prod43&quot;' />
+                </groupfilter>
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:area:nk]'>
+            <groupfilter function='level-members' level='[none:area:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:country:nk]'>
+            <groupfilter function='level-members' level='[none:country:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]'>
+            <groupfilter function='level-members' level='[none:molecule:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]'>
+            <groupfilter function='level-members' level='[none:product:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[qr:date:ok]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[qr:date:ok]' member='1' />
+              <groupfilter function='member' level='[qr:date:ok]' member='2' />
+              <groupfilter function='member' level='[qr:date:ok]' member='3' />
+              <groupfilter function='member' level='[qr:date:ok]' member='4' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]</column>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[qr:date:ok]</column>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:country:nk]</column>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:area:nk]</column>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]</column>
+            <column>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[Inclusions (MONTH(date),product)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[qr:date:ok]' value='129' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' />
+              <lod column='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[sum:value:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+                <format attr='size' value='0.60370165109634399' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[sum:value:qk]</rows>
+        <cols>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[tmn:date:qk]</cols>
+      </table>
+      <simple-id uuid='{3594B8C8-D8FA-4EE7-AD35-9956AFC769C4}' />
+    </worksheet>
+    <worksheet name='Sheet 5'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='combined_final (combined_final)' name='federated.18dgjxc07sqzqr16jf30l15qpj7n' />
+          </datasources>
+          <datasource-dependencies datasource='federated.18dgjxc07sqzqr16jf30l15qpj7n'>
+            <column-instance column='[indication]' derivation='CountD' name='[ctd:indication:qk]' pivot='key' type='quantitative' />
+            <column datatype='string' name='[indication]' role='dimension' type='nominal' />
+            <column-instance column='[product]' derivation='None' name='[none:product:nk]' pivot='key' type='nominal' />
+            <column datatype='string' name='[product]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]</rows>
+        <cols>[federated.18dgjxc07sqzqr16jf30l15qpj7n].[ctd:indication:qk]</cols>
+      </table>
+      <simple-id uuid='{593193A0-B6CB-492B-9693-9D1D1A9F264B}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='44'>
+    <window class='worksheet' name='Product Summary'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:bioSimilar:nk]' type='size' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{81146491-30F1-49DA-A3B7-7A65D509B809}' />
+    </window>
+    <window class='worksheet' maximized='true' name='SalesTrends_byMolecule'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' type='filter' />
+            <card param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:area:nk]' type='filter' />
+            <card param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]' type='filter' />
+            <card param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:country:nk]' type='filter' />
+            <card pane-specification-id='2' param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <floating-toolbar-visibility value='1' />
+      </viewpoint>
+      <simple-id uuid='{A1A1F068-4D65-4C99-8377-61F3F03D7246}' />
+    </window>
+    <window class='worksheet' name='Indication'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:country:nk]' type='filter' />
+            <card pane-specification-id='0' param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{CB45A352-5CA1-427A-89D1-A90FBD9BE073}' />
+    </window>
+    <window class='worksheet' name='SalesTrends_byIndication'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:indication:nk]' type='filter' />
+            <card pane-specification-id='2' param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F11263C8-220A-46A4-B6AE-6D84A57E5A8F}' />
+    </window>
+    <window class='worksheet' name='Molecule6perCountry'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:molecule:nk]' type='filter' />
+            <card pane-specification-id='0' param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[none:product:nk]' type='color' />
+            <card pane-specification-id='0' param='[federated.18dgjxc07sqzqr16jf30l15qpj7n].[pcto:sum:value:qk:1]' type='size' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{9EB26069-484F-42BB-A171-BEE4AF7B0650}' />
+    </window>
+    <window class='worksheet' name='Sheet 5'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E994C77C-9BA1-4E3A-8F82-CFF0B17B5A72}' />
+    </window>
+  </windows>
+</workbook>
